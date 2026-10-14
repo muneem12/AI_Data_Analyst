@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+matplotlib
+transformers
+torch
+accelerate
+sqlalchemy
+huggingface_hub
+openpyxl
