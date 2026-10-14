@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+[**Open AI Data Analyst App**](https://aidataanalyst-uxqckwrmjkjubfaqdausm8.streamlit.app/)
+
 # 📊 AI Data Analyst
 
 An AI-powered data analysis web application built using Python, Streamlit, Pandas, and SQLite. It allows users to upload datasets, explore sales data through interactive charts, and ask questions in natural language to generate SQL queries.
